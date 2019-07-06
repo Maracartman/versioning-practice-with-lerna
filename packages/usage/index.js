@@ -1,3 +1,3 @@
-var alpha = require('alpha')
-var beta = require('beta')
-console.log(alpha + " " + beta)
+
+var button = require('fancy-button-maracartman')
+console.log(alpha + " " + button)
