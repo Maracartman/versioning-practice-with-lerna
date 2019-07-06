@@ -1,0 +1,1 @@
+This is just a practice oriented project for testing LERNA for dependency splitting.
